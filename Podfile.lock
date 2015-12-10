@@ -1,0 +1,32 @@
+PODS:
+  - Firebase (2.4.3)
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+
+DEPENDENCIES:
+  - Firebase (>= 2.4.3)
+  - JSQMessagesViewController (from `https://github.com/jessesquires/JSQMessagesViewController`,
+    tag `7.2.0`)
+  - SDWebImage
+
+EXTERNAL SOURCES:
+  JSQMessagesViewController:
+    :git: https://github.com/jessesquires/JSQMessagesViewController
+    :tag: 7.2.0
+
+CHECKOUT OPTIONS:
+  JSQMessagesViewController:
+    :git: https://github.com/jessesquires/JSQMessagesViewController
+    :tag: 7.2.0
+
+SPEC CHECKSUMS:
+  Firebase: 48179995b561e2262c5d4060ecdffca45fbbff8b
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+
+COCOAPODS: 0.39.0
